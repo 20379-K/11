@@ -1,7 +1,14 @@
 body {
-    background-color: #f0f0f0;
-    font-family: sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    font-family: Arial, sans-serif;
 }
-h1 {
-    color: rgb(101, 101, 187);
+
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
 }
